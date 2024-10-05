@@ -5,9 +5,9 @@
 //profile-web-page-url: https://hiddify.com
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes.
-warp://u8G9WI72-2UIq9C85-u1k859OL@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
+warp://u8G9WI72-2UIq9C85-u1k859OL@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m6
 warp://u8G9WI72-2UIq9C85-u1k859OL@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
-warp://u8G9WI72-2UIq9C85-u1k859OL@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
+warp://u8G9WI72-2UIq9C85-u1k859OL@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m6
 warp://u8G9WI72-2UIq9C85-u1k859OL@auto
 warp://188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto
 warp://u8G9WI72-2UIq9C85-u1k859OL@[2606:4700:d0::136d:8b84:401:7a7f]:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto
