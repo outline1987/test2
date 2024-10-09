@@ -5,12 +5,12 @@
 //profile-web-page-url: https://hiddify.com
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes.
-warp://k8FhT634-1YV65TN9-17GhO68S@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#1
-warp://tW902v8I-5Jo78tg9-Zi4K903W@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#2
+
+
 warp://tU785I3s-pVU5d908-rXl9G371@188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m6#3
-warp://u8G9WI72-2UIq9C85-u1k859OL@auto
-warp://188.114.99.53:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto
-warp://V97DAG63-6Wb7t92K-3fTr704h@[2606:4700:d0::136d:8b84:401:7a7f]:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#4
+
+
+warp://3DI2n6t4-18Y4Sd6H-XN70Jc15@[2606:4700:d0::136d:8b84:401:7a7f]:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://auto#4
 warp://auto
 warp://auto6
 #warp://p1@auto/?ifp=1-3&ifpm=m4
